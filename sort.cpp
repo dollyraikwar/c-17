@@ -12,7 +12,7 @@ cin>>sum;
 cout<<"enter the elements in array";
 for(int i=0;i<a.size();i++)
 {
-v.push_back(a[i]);
+cin>>a;
 	
 }
 for(int i=0;i<n;i++)
